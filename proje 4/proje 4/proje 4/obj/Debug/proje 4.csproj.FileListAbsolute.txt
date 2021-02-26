@@ -1,0 +1,9 @@
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\bin\Debug\proje 4.exe.config
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\bin\Debug\proje 4.exe
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\bin\Debug\proje 4.pdb
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\obj\Debug\proje 4.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\obj\Debug\proje_4.Form1.resources
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\obj\Debug\proje_4.Properties.Resources.resources
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\obj\Debug\proje 4.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\obj\Debug\proje 4.exe
+C:\Users\win7\Desktop\projeler\proje 4\proje 4\proje 4\obj\Debug\proje 4.pdb
